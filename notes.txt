@@ -4,3 +4,4 @@ Version Control: Git tracks changes to your code, allowing you to revert to prev
 
 Collaboration: Multiple developers can work on the same project simultaneously without conflicts.
 
+Git branches allow parallel development by creating independent lines of code.
